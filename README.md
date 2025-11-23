@@ -15,7 +15,7 @@
 This app was made by a dad for his autistic son, Maddox.  
 Nothing ever leaves the phone.
 
-<div id="donate-button-container">
+[<div id="donate-button-container">
 <div id="donate-button"></div>
 <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
 <script>
@@ -29,7 +29,7 @@ title:'PayPal - The safer, easier way to pay online!',
 }
 }).render('#donate-button');
 </script>
-</div>
+</div>](https://www.paypal.com/donate/?hosted_button_id=G6ECEZHNC4UPW)
 
 
 Questions? Email: jdablabs@gmail.com
